@@ -1,2 +1,1 @@
-My practice project
-feature branch added
+# awesome Git practice project ( feature update)
