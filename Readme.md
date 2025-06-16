@@ -1,2 +1,2 @@
 My practice project
-feature branch added (main)
+feature branch added
